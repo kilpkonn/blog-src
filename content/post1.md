@@ -27,9 +27,25 @@ All in all I invested in multiple individual stocks, mainly dividend stocks in B
 
 Performance of each stock I had can be seen in the Figure below.
 
-<img src="/charts/2022-overview.png" alt="2022-overview.png">
+![img](/charts/2022-overview.png)
 
 # Dividends and interests
 
 For the 2022 I had a goal of getting 1000 eur passive income.
 Well I failed that... but I managed to earn 800 which isn't that far off considering the fact that I bought quite many dividend stocks after they had already paid the dividends for this year. <!-- TODO -->
+
+I also started giving out small loans on [omaraha.ee](https://omaraha.ee/et/) from beginning of February.
+By the end of the year I'm 40eur in profit which is xx% considering my investment.
+Definitely below expectations and I'd argue that it's not worth the risk, but I'm keeping the investment to see how it performs in the future and after all I don't want to keep everything in stocks.
+
+# Other investments
+#### Crypto
+My crypto investments are not doing good as they seem to be only going down.
+I'm not planning on selling them any time soon as I've accounted for the risk, but having lost roughly 50% in a year doesn't make me happy.
+
+#### Options
+I also bought some VGK calls in January with one year expiry date.
+Well, then the war happened and now they are worth pretty much nothing.
+Likely will buy again in with couple of hundred I have at my IB account but call options seem quite expensive right now so we'll see...
+
+# Overall performance

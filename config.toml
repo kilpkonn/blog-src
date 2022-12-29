@@ -28,3 +28,8 @@ links = "Links"
 date_format = "%Y-%m-%d"
 next_page = "Next Page"
 last_page = "Last Page"
+
+[extra.social]
+github = "https://github.com/kilpkonn"
+facebook = "https://www.facebook.com/tavoannus/"
+linkedin = "https://www.linkedin.com/in/tavo-annus-4a5631171/"
