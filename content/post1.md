@@ -27,7 +27,7 @@ All in all I invested in multiple individual stocks, mainly dividend stocks in B
 
 Performance of each stock I had can be seen in the Figure below.
 
-![img](/charts/2022-overview.png)
+![img](../files/2022-overview.png)
 
 # Dividends and interests
 
