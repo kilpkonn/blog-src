@@ -14,7 +14,7 @@ Here is my 2023 in numbers.
 
 ## Coding
 **GitHub commits:** 64 (<span style="color: red;">-86%</span>)       
-**Time:** 322h (<span style="color: green;">+140%</span>)
+**Time:** 322h (<span style="color: green;">+140%</span>)  
 **Shell commands ran:** 53,655 (<span style="color: green;">+21%</span>)
 
 ## Sports
