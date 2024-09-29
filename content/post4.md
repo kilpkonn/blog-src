@@ -60,3 +60,8 @@ That is not sustainable tho, so I guess we'll never see that 130% increase in a 
 **Dividend yield:** 3.8%  
 **Standard deviation:** 1.8%
 
+# Goals
+2023 - 60k
+2024 - 80k
+2025 - 100k
+2026 - 125k

@@ -71,3 +71,8 @@ From the negative side the Silvano Fashion Group definitely stands out as it has
 **Dividend yield:** 2.5%  
 **Standard deviation:** 3.4%
 
+# Goals
+2022 - 45k
+2023 - 60k
+2024 - 75k
+2025 - 95k
